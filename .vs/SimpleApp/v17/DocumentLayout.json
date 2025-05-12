@@ -51,15 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SimpleApp.Test",
+              "Title": "SimpleApp.Test.csproj",
               "DocumentMoniker": "D:\\\u0411\u0435\u0437\u0443\u043C\u0438\u0435\\GitHub\\SimpleApp\\SimpleApp.Test\\SimpleApp.Test.csproj",
               "RelativeDocumentMoniker": "SimpleApp.Test\\SimpleApp.Test.csproj",
               "ToolTip": "D:\\\u0411\u0435\u0437\u0443\u043C\u0438\u0435\\GitHub\\SimpleApp\\SimpleApp.Test\\SimpleApp.Test.csproj",
               "RelativeToolTip": "SimpleApp.Test\\SimpleApp.Test.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T08:53:23.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:53:23.488Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "ToolTip": "D:\\\u0411\u0435\u0437\u0443\u043C\u0438\u0435\\GitHub\\SimpleApp\\SimpleApp\\SimpleApp.csproj",
               "RelativeToolTip": "SimpleApp\\SimpleApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T08:38:29.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:38:29.121Z"
             },
             {
               "$type": "Document",
@@ -95,8 +93,7 @@
               "RelativeToolTip": "SimpleApp.Test\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:21:20.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:21:20.715Z"
             },
             {
               "$type": "Document",
