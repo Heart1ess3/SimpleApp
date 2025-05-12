@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u0411\u0435\u0437\u0443\u043C\u0438\u0435\\GitHub\\SimpleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4A50F63-4290-4307-8C21-B17A60AFD1F9}|SimpleApp.Test\\SimpleApp.Test.csproj|d:\\\u0431\u0435\u0437\u0443\u043C\u0438\u0435\\github\\simpleapp\\simpleapp.test\\simpleapp.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E4A50F63-4290-4307-8C21-B17A60AFD1F9}|SimpleApp.Test\\SimpleApp.Test.csproj|solutionrelative:simpleapp.test\\simpleapp.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4A50F63-4290-4307-8C21-B17A60AFD1F9}|SimpleApp.Test\\SimpleApp.Test.csproj|d:\\\u0431\u0435\u0437\u0443\u043C\u0438\u0435\\github\\simpleapp\\simpleapp.test\\simpleapp.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E4A50F63-4290-4307-8C21-B17A60AFD1F9}|SimpleApp.Test\\SimpleApp.Test.csproj|solutionrelative:simpleapp.test\\simpleapp.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A50F63-4290-4307-8C21-B17A60AFD1F9}|SimpleApp.Test\\SimpleApp.Test.csproj|d:\\\u0431\u0435\u0437\u0443\u043C\u0438\u0435\\github\\simpleapp\\simpleapp.test\\simpleapp.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E4A50F63-4290-4307-8C21-B17A60AFD1F9}|SimpleApp.Test\\SimpleApp.Test.csproj|solutionrelative:simpleapp.test\\simpleapp.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4A50F63-4290-4307-8C21-B17A60AFD1F9}|SimpleApp.Test\\SimpleApp.Test.csproj|d:\\\u0431\u0435\u0437\u0443\u043C\u0438\u0435\\github\\simpleapp\\simpleapp.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 53,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,15 +50,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SimpleApp.Test.csproj",
               "DocumentMoniker": "D:\\\u0411\u0435\u0437\u0443\u043C\u0438\u0435\\GitHub\\SimpleApp\\SimpleApp.Test\\SimpleApp.Test.csproj",
               "RelativeDocumentMoniker": "SimpleApp.Test\\SimpleApp.Test.csproj",
               "ToolTip": "D:\\\u0411\u0435\u0437\u0443\u043C\u0438\u0435\\GitHub\\SimpleApp\\SimpleApp.Test\\SimpleApp.Test.csproj",
               "RelativeToolTip": "SimpleApp.Test\\SimpleApp.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T08:53:23.488Z"
+              "WhenOpened": "2025-05-12T08:53:23.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,11 +70,12 @@
               "ToolTip": "D:\\\u0411\u0435\u0437\u0443\u043C\u0438\u0435\\GitHub\\SimpleApp\\SimpleApp\\SimpleApp.csproj",
               "RelativeToolTip": "SimpleApp\\SimpleApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T08:38:29.121Z"
+              "WhenOpened": "2025-05-12T08:38:29.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SimpleApp.Test",
               "DocumentMoniker": "D:\\\u0411\u0435\u0437\u0443\u043C\u0438\u0435\\GitHub\\SimpleApp\\SimpleApp.Test\\SimpleApp.Test.csproj",
               "RelativeDocumentMoniker": "SimpleApp.Test\\SimpleApp.Test.csproj",
