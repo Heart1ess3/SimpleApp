@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SimpleApp
-build_property.ProjectDir = D:\Безумие\6 Семестр\ОС\Lab19\Csharp\SimpleApp\SimpleApp\
+build_property.ProjectDir = D:\Безумие\GitHub\SimpleApp\SimpleApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
